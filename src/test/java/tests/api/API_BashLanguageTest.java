@@ -18,6 +18,7 @@ public class API_BashLanguageTest extends BaseTest {
     final static String BASH_END_POINT = "language-bash-1815.html";
 
     @Test
+
     public void testAttributes_DefaultValuesBASH() {
         BashLanguagePage bashLanguagePage =
                 openBaseURL()
